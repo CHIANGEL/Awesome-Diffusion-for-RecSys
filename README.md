@@ -2,9 +2,9 @@
 
 A collection of AWESOME papers on adapting diffusion models to recommender systems. 
 
-:tada: Our survey paper has been accepted by **_ACM Transactions on Information Systems (TOIS)_**: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://dl.acm.org/doi/10.1145/3678004)
-
 ## Papers
+
+:electron: means the real-world deployment and online A/B test have been reported in the paper.
 
 ### 1. Diffusion for Data Engineering & Encoding
 
