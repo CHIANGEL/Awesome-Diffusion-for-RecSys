@@ -66,14 +66,14 @@ A collection of AWESOME papers on adapting diffusion models to recommender syste
 * Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias. Arxiv 2024. [[Link]](https://arxiv.org/abs/2405.16772)
 * RecDiff: Diffusion Model for Social Recommendation. Arxiv 2024. [[Link]](RecDiff: Diffusion Model for Social Recommendation)
 * LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion. ICIC 2024. [[Link]](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)
-* **[Deployed]**DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models. Arxiv 2024. [[Link]](https://arxiv.org/abs/2408.12153)
+* :electron: DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models. Arxiv 2024. [[Link]](https://arxiv.org/abs/2408.12153)
 * DSDRec: Next POI recommendation using deep semantic extraction and diffusion model. Information Sciences 2024. [[Link]](https://www.sciencedirect.com/science/article/pii/S0020025524009186)
 
 #### 2.3 Other Applications
 
-* Discrete Conditional Diffusion for Reranking in Recommendation. WWW 2024. [[Link]](https://arxiv.org/abs/2308.06982)
+* :electron: Discrete Conditional Diffusion for Reranking in Recommendation. WWW 2024. [[Link]](https://arxiv.org/abs/2308.06982)
 * Diffusion Cross-domain Recommendation. Arxiv 2024. [[Link]](https://arxiv.org/abs/2402.02182)
-* AIGB: Generative Auto-bidding via Diffusion Modeling. KDD 2024. [[Link]](https://arxiv.org/abs/2405.16141)
+* :electron: AIGB: Generative Auto-bidding via Diffusion Modeling. KDD 2024. [[Link]](https://arxiv.org/abs/2405.16141)
 * Diffusion Model for Slate Recommendation. Arxiv 2024. [[Link]](https://www.arxiv.org/abs/2408.06883)
 
 ### 3. Diffusion for Content Presentation
@@ -85,14 +85,14 @@ A collection of AWESOME papers on adapting diffusion models to recommender syste
 #### 3.2 Ad Creative Generation
 
 * AdBooster: Personalized Ad Creative Generation using Stable Diffusion Outpainting. Fashion@RecSys 2023. [[Link]](https://arxiv.org/abs/2309.11507)
-* A New Creative Generation Pipeline for Click-Through Rate with Stable Diffusion Model. WWW 2024. [[Link]](https://arxiv.org/abs/2401.10934)
-* Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce. RecSys 2024. [[Link]](https://arxiv.org/abs/2408.12392)
+* :electron: A New Creative Generation Pipeline for Click-Through Rate with Stable Diffusion Model. WWW 2024. [[Link]](https://arxiv.org/abs/2401.10934)
+* :electron: Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce. RecSys 2024. [[Link]](https://arxiv.org/abs/2408.12392)
 
 #### 3.3 General Content Generation
 
 * Generative Recommendation: Towards Next-generation Recommender Paradigm. Arxiv 2024. [[Link]](https://arxiv.org/abs/2304.03516)
 * PMG : Personalized Multimodal Generation with Large Language Models. WWW 2024. [[Link]](https://arxiv.org/abs/2404.08677)
-* * MMCRec: Towards Multi-modal Generative AI in Conversational Recommendation. ECIR 2024. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_23)
+* MMCRec: Towards Multi-modal Generative AI in Conversational Recommendation. ECIR 2024. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_23)
 
 
 
