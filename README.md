@@ -44,9 +44,30 @@ A collection of AWESOME papers on adapting diffusion models to recommender syste
 
 #### 2.1 Collaborative Recommendation
 
+* Recommendation via collaborative diffusion generative model. KSEM 2022. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_47)
+* Diffusion Recommender Model. SIGIR 2023. [[Link]](https://arxiv.org/abs/2304.04971)
+* Blurring-Sharpening Process Models for Collaborative Filtering. SIGIR 2023. [[Link]](https://arxiv.org/abs/2211.09324)
+* An Explainable Recommendation Method based on Diffusion Model. BigDIA 2023. [[Link]](https://ieeexplore.ieee.org/document/10429319)
+* RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation. Arxiv 2023. [[Link]](https://arxiv.org/abs/2306.08947)
+* Graph Signal Diffusion Model for Collaborative Filtering. SIGIR 2024. [[Link]](https://arxiv.org/abs/2311.08744)
+* Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity. SIGIR 2024. [[Link]](https://arxiv.org/abs/2404.14240)
+* DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments. Pattern Recognition 2024. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324004436)
 
 #### 2.2 Context-aware Recommendation
 
+* Diffurec: A diffusion model for sequential recommendation. TOIS 2023. [[Link]](https://arxiv.org/abs/2304.00686)
+* Sequential recommendation with diffusion models. Arxiv 2023. [[Link]](https://arxiv.org/abs/2304.04541)
+* Conditional denoising diffusion for sequential recommendation. PAKDD 2024. [[Link]](https://arxiv.org/abs/2304.11433)
+* LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation. Arxiv 2023. [[Link]](https://arxiv.org/abs/2309.15363)
+* Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion. NIPS 2023. [[Link]](https://arxiv.org/abs/2310.20453)
+* A Diffusion Model for POI Recommendation. TOIS 2023. [[Link]](https://arxiv.org/abs/2304.07041)
+* Diffusion Recommendation with Implicit Sequence Influence. WWW 2024. [[Link]](https://dl.acm.org/doi/10.1145/3589335.3651951)
+* Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations. KDD 2024. [[Link]](https://arxiv.org/abs/2405.13811)
+* Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias. Arxiv 2024. [[Link]](https://arxiv.org/abs/2405.16772)
+* RecDiff: Diffusion Model for Social Recommendation. Arxiv 2024. [[Link]](RecDiff: Diffusion Model for Social Recommendation)
+* LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion. ICIC 2024. [[Link]](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)
+* DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models. Arxiv 2024. [[Link]](https://arxiv.org/abs/2408.12153)
+* DSDRec: Next POI recommendation using deep semantic extraction and diffusion model. Information Sciences 2024. [[Link]](https://www.sciencedirect.com/science/article/pii/S0020025524009186)
 
 #### 2.3 Other Applications
 
