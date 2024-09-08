@@ -66,7 +66,7 @@ A collection of AWESOME papers on adapting diffusion models to recommender syste
 * Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias. Arxiv 2024. [[Link]](https://arxiv.org/abs/2405.16772)
 * RecDiff: Diffusion Model for Social Recommendation. Arxiv 2024. [[Link]](RecDiff: Diffusion Model for Social Recommendation)
 * LeadRec: Towards Personalized Sequential Recommendation via Guided Diffusion. ICIC 2024. [[Link]](https://link.springer.com/chapter/10.1007/978-981-97-5618-6_1)
-* DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models. Arxiv 2024. [[Link]](https://arxiv.org/abs/2408.12153)
+* **[Deployed]**DimeRec: A Unified Framework for Enhanced Sequential Recommendation via Generative Diffusion Models. Arxiv 2024. [[Link]](https://arxiv.org/abs/2408.12153)
 * DSDRec: Next POI recommendation using deep semantic extraction and diffusion model. Information Sciences 2024. [[Link]](https://www.sciencedirect.com/science/article/pii/S0020025524009186)
 
 #### 2.3 Other Applications
