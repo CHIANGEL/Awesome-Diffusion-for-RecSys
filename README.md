@@ -2,6 +2,9 @@
 
 A collection of AWESOME papers on adapting diffusion models to recommender systems. 
 
+:smile: Please check out our survey paper: [A Survey on Diffusion Models for Recommender Systems
+](https://arxiv.org/abs/2409.05033).
+
 ## Papers
 
 :electron: means the real-world deployment and online A/B test have been reported in the paper.
