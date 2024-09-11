@@ -42,6 +42,7 @@ A collection of AWESOME papers on adapting diffusion models to recommender syste
 * Diffusion Review-Based Recommendation. KSEM 2024. [[Link]](https://link.springer.com/chapter/10.1007/978-981-97-5489-2_23)
 * Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation. Arxiv 2024. [[Link]](https://arxiv.org/abs/2408.00490)
 * Diff-DGMN: A Diffusion-Based Dual Graph Multi-Attention Network for POI Recommendation. IEEE Internet of Things Journal 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10640103)
+* Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering. Arxiv 2024. [[Link]](https://arxiv.org/abs/2405.00287)
 
 ### 2. Diffusion as Recommender Models
 
