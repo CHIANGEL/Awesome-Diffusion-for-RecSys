@@ -31,6 +31,7 @@ A collection of AWESOME papers on adapting diffusion models to recommender syste
 * SeeDRec: Sememe-based Diffusion for Sequential Recommendation. IJCAI 2024. [[Link]](https://www.ijcai.org/proceedings/2024/251)
 * Federated Recommender System Based on Diffusion Augmentation and Guided Denoising. TOIS 2024. [[Link]](https://dl.acm.org/doi/10.1145/3688570)
 * SimDiff: Simple Denoising Probabilistic Latent Diffusion Model for Data Augmentation on Multi-modal Knowledge Graph. KDD 2024. [[Link]](https://dl.acm.org/doi/10.1145/3637528.3671769)
+* Diffusion Models for Tabular Data Imputation and Synthetic Data Generation. Arxiv 2024. [[Link]](https://arxiv.org/abs/2407.02549)
 
 #### 1.2 Representation Enhancement
 
