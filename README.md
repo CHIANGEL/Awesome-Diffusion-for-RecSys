@@ -57,6 +57,7 @@ A collection of AWESOME papers on adapting diffusion models to recommender syste
 * Graph Signal Diffusion Model for Collaborative Filtering. SIGIR 2024. [[Link]](https://arxiv.org/abs/2311.08744)
 * Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity. SIGIR 2024. [[Link]](https://arxiv.org/abs/2404.14240)
 * DGRM: Diffusion-GAN recommendation model to alleviate the mode collapse problem in sparse environments. Pattern Recognition 2024. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324004436)
+* Flow Matching for Collaborative Filtering. Arxiv 2025. [[Link]](https://arxiv.org/abs/2502.07303)
 
 #### 2.2 Context-aware Recommendation
 
